@@ -1,9 +1,6 @@
 # Safety-Radar
 Real-time object detection and radar visualization system built with Arduino Mega, HC-SR04 ultrasonic sensor, servo motors, OLED display, C++, and Processing.
 
-
-# Safety Radar
-
 ## Project Overview
 
 Safety Radar is an Arduino-based proximity detection system designed to detect nearby obstacles and provide real-time visual feedback. The system integrates ultrasonic sensing, servo-controlled scanning, an OLED display, and a graphical radar interface developed in Processing.

@@ -10,8 +10,6 @@
 #define ECHO 33
 #define SERVO_PIN 9
 
-#define MAX_DISTANCE 55
-#define ANGLE_STEP 8
 #define NUM_ANGLES 23
 
 #include <Wire.h>

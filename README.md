@@ -75,11 +75,11 @@ The OLED display communicates through I2C using address `0x3C`.
 
     Safety-Radar/
     ├── Arduino/
-    │   └── SafetyRadar/
-    │       └── SafetyRadar.ino
+    │   └── SafetyRadar.ino
+    │      
     ├── Processing/
-    │   └── RadarVisualization/
-    │       └── RadarVisualization.pde
+    │   └── RadarVisualization.pde
+    │      
     └── README.md
 
 ## Setup Instructions

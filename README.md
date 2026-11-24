@@ -73,12 +73,14 @@ The OLED display communicates through I2C using address `0x3C`.
 
 ## Repository Structure
 
- Safety-Radar/
-├── Arduino/
-│   └── SafetyRadar.ino
-├── Processing/
-│   └── RadarVisualization.pde
-└── README.md
+Safety-Radar/
+    ├── Arduino/
+    │   └── SafetyRadar/
+    │       └── SafetyRadar.ino
+    ├── Processing/
+    │   └── RadarVisualization/
+    │       └── RadarVisualization.pde
+    └── README.md
 
 ## Setup Instructions
 
@@ -122,7 +124,10 @@ The OLED display communicates through I2C using address `0x3C`.
 
 ## Project Demo
 
-Project images and demonstration videos will be added here.
+A live demonstration of the Safety Radar system, showcasing
+ultrasonic obstacle detection, servo-controlled scanning,
+OLED feedback, and real-time radar visualization.
+
 https://drive.google.com/file/d/1B4K5wLDzs1ugG_q6tnvRbSWWBqbQ6GNg/view?usp=sharing
 
 ## Disclaimer
